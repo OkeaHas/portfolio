@@ -73,19 +73,19 @@ export default function Portfolio() {
               title: "Slimefun Network",
               desc: "Fork Slimefun Network.",
               link: "https://github.com/OkeaHas/Networks2",
-              img: "/images/slimefun.png"
+              img: "/portfolio/images/slimefun.png"
             },
             {
               title: "Slimefun Tinker",
               desc: "Fork Slimefun Tinker",
               link: "https://github.com/OkeaHas/SlimeTinker2",
-              img: "/images/Slimefun.png"
+              img: "/portfolio/images/Slimefun.png"
             },
             {
               title: "Minecraft Mod/Plugin",
               desc: "Tempat Hasil Mod/Plugin Yang Aku Buat",
               link: "https://github.com/OkeaHas/Plugin&Mod",
-              img: "/images/Plugin.png"
+              img: "/portfolio/images/Plugin.png"
             }
           ].map((project, i) => (
             <motion.div 
