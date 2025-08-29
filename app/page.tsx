@@ -73,7 +73,7 @@ export default function Portfolio() {
               title: "Slimefun Network",
               desc: "Fork Slimefun Network.",
               link: "https://github.com/OkeaHas/Networks2",
-              img: "/portfolio/images/slimefun.png"
+              img: "/portfolio/images/Slimefun.png"
             },
             {
               title: "Slimefun Tinker",
